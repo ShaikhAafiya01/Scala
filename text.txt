@@ -1,0 +1,3 @@
+Scala is a powerful language. Scala runs on the JVM and Scala supports functional programming.
+The collections library in Scala makes it easy to count words, and counting words is a classic task.
+It's simple: split the text, group the words, and count the words in each group.
